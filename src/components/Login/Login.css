@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.loginBody{
+    width: 100%;
+    height: 750px;
+    /* border: 1px solid black; */
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/486/289/original/gradient-background-instagram-free-vector.jpg);
+}
+
+.loginForm{
+    width: 450px;
+    height: 500px;
+    /* border: 1px solid white; */
+    margin: 0 auto;
+}
+
+.formLogin img{
+    margin: auto;
+}
+
+form input{
+    width: 420px;
+    padding: 8px;
+}
+
+form button{
+    width: 420px;
+    padding: 8px;
+    background-color: rgb(25, 79, 216);
+    color: white;
+    font-size: 22px;
+    border: 0;
+}
+
+form button:hover{
+    background-color: rgb(3, 49, 156);
+} 
+
+form{
+    width: 450px;
+    padding: 8px;
+}
+
+.formLogin p{
+    width: 450px;
+    color: rgb(240, 239, 239);
+    font-size: 14px;
+    padding: 8px;
+    margin: 10px 60px;
+}
+
+.formLogin{
+   padding: 10px;
+}
+
+.formLogin button{
+    width: 420px;
+    padding: 8px;
+    background-color: rgb(25, 79, 216);
+    color: rgb(221, 221, 221);
+    font-size: 20px;
+    border: 0;
+}
+
+/* .formLogin span{
+    font-size: 20px;
+    color: white;
+}  */
+
+.formLogin h3{
+    width: 430px;
+    padding: 8px;
+    color: rgb(225, 225, 225);
+    font-size: 13px;
+    margin: 10px 90px;
+}
+
+.formLogin h3 a{
+    color: black;
+    text-decoration: none;
+}
+
+.formLogin p span{
+    color: black;
+    font-size: 17px;
+}
+
+/* .loginForm p{
+    font-size: 12px; 
+    float: inline-end;
+} */
